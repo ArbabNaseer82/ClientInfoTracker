@@ -14,30 +14,3 @@ ClientInfoTracker is a simple yet powerful mobile application built with Flutter
 </div>
 
 
-# Setting Up Flutter
-To get started with Flutter, follow these steps:
-
-Download Flutter SDK: Visit the official Flutter website and download the Flutter SDK for your operating system.
-
-Install Flutter SDK:
-
-Windows: Unzip the Flutter SDK to a location of your choice (e.g., C:\src\flutter).
-macOS: Extract the Flutter SDK and add the flutter/bin directory to your PATH.
-Linux: Extract the Flutter SDK to your desired location and add the flutter/bin directory to your PATH.
-Set Up Your Editor:
-
-Visual Studio Code: Install the Flutter and Dart plugins.
-Android Studio: Install the Flutter and Dart plugins.
-Run Flutter Doctor: Open a terminal or command prompt and run flutter doctor to ensure all necessary dependencies are installed.
-
-Create a New Flutter Project:
-
-sh
-Copy code
-flutter create my_project
-cd my_project
-Run Your Application:
-
-Ensure you have a device connected or an emulator running.
-Run flutter run to start your Flutter application.
-For more detailed instructions, visit the official Flutter installation guide.
